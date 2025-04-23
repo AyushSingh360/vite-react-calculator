@@ -23,34 +23,24 @@ CSS/SCSS – Styling and layout (adjust if you use Tailwind or another framework
 Clone the repository
 
 bash
-Copy
-Edit
+
 git clone https://github.com/AyushSingh360bolt-calculator.git
 cd bolt-calculator
 Install dependencies
 
 bash
-Copy
-Edit
+
 npm install
-Or with Yarn:
+
 
 bash
-Copy
-Edit
-yarn
-Start the development server
-
-bash
-Copy
-Edit
 npm run dev
+
 Open your browser and go to http://localhost:5173
 
 📁 Project Structure
 csharp
-Copy
-Edit
+
 src/
 ├── components/       # Reusable calculator buttons, display, etc.
 ├── App.jsx           # Main calculator logic
