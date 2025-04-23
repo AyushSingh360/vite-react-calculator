@@ -19,39 +19,9 @@ JavaScript – Core logic and functionality
 
 CSS/SCSS – Styling and layout (adjust if you use Tailwind or another framework)
 
-📦 Installation
-Clone the repository
-
-bash
-
-git clone https://github.com/AyushSingh360bolt-calculator.git
-cd bolt-calculator
-Install dependencies
-
-bash
-
-npm install
-
-
-bash
-npm run dev
-
-Open your browser and go to http://localhost:5173
-
-📁 Project Structure
-csharp
-
-src/
-├── components/       # Reusable calculator buttons, display, etc.
-├── App.jsx           # Main calculator logic
-├── main.jsx          # Entry point
-public/               # Static assets
-vite.config.js        # Vite configuration
-📷 Preview
-
-Add a screenshot of the app in action for a better visual reference.
 
 ✨ Future Improvements
+
 Keyboard support
 
 Dark mode toggle
