@@ -25,7 +25,7 @@ Clone the repository
 bash
 Copy
 Edit
-git clone https://github.com/your-username/bolt-calculator.git
+git clone https://github.com/AyushSingh360bolt-calculator.git
 cd bolt-calculator
 Install dependencies
 
