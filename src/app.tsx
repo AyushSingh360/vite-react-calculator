@@ -1,9 +1,12 @@
 import React from 'react';
 import Calculator from './components/Calculator';
+import ThemeToggle from './components/ThemeToggle';
 
 function App() {
   return (
-    <div className="min-h-screen bg-gradient-to-br from-gray-900 via-purple-900 to-violet-900 flex items-center justify-center p-4">
+    <div className="min-h-screen flex items-center justify-center p-4" 
+         style={{ backgroundColor: 'var(--color-primary)' }}>
+      <ThemeToggle />
       <Calculator />
     </div>
   );
